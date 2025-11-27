@@ -1,0 +1,34 @@
+symptom1,symptom2,disease,specialization
+chest pain,palpitation,Heart Attack Risk,Cardiologist
+high blood,dizzy spells,Hypertension,Cardiologist
+heart beat fast,low blood,Arrhythmia,Cardiologist
+faint,pressure high,Syncope,Cardiologist
+tight chest,breathing short,Angina,Cardiologist
+skin rash,itching severe,Urticaria,Dermatologist
+acne,spot dark,Severe Acne,Dermatologist
+hair loss,nail fungus,Fungal Infection,Dermatologist
+eczema,psoriasis,Eczema,Dermatologist
+skin burning,dry skin patch,Dermatitis,Dermatologist
+severe head,migraine aura,Migraine,Neurologist
+numbness,tingling hands,Neuropathy,Neurologist
+seizure,memory loss,Epilepsy,Neurologist
+tremor,nerve issue,Parkinsons,Neurologist
+speech slur,dizzy spin,Stroke Risk,Neurologist
+knee joint,fracture pain,Bone Fracture,Orthopedic
+shoulder injury,ligament tear,Ligament Tear,Orthopedic
+hip pain,back pain chronic,Sciatica,Orthopedic
+foot swell,wrist pain joint,Arthritis,Orthopedic
+bone injury,sprain severe,Sprain,Orthopedic
+tooth ache,gums swollen,Gingivitis,Dentist
+cavity,dental pain,Cavity,Dentist
+wisdom tooth,jaw ache,Wisdom Tooth Pain,Dentist
+mouth bleed,dental checkup,Gum Disease,Dentist
+fever high,body ache joint,Flu,General Physician
+cold severe,sore throat deep,Severe Cold,General Physician
+cough persistent,tiredness long,Bronchitis,General Physician
+flu symptoms,infection mild,Viral Infection,General Physician
+general weakness,fatigue long,General Weakness,General Physician
+child fever,vomiting infant,Infant Viral,Pediatrician
+baby rash,infant care,Diaper Rash,Pediatrician
+vaccine,child cold,Immunization,Pediatrician
+child cough,ear child,Ear Infection,Pediatrician
